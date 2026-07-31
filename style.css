@@ -2,12 +2,12 @@
 
 @font-face{
 	font-family:'agency';
-	src:url("agency fb.ttf") 
+	src:url("gfx/agency fb.ttf") 
 }
 html{
 	font-family:'agency';
 	background-color:#101010;
-	background-image:url('bg.png');
+	background-image:url('gfx/bg.png');
 	background-repeat:repeat;
 }
 hr,.header,.body{
@@ -426,7 +426,7 @@ h3{
 	margin-bottom:50px;
 }
 .header,.body3{
-	background-image:url('binaries.gif');
+	background-image:url('gfx/binaries.gif');
 	background-repeat:repeat;
 }
 @media screen and (max-width: 960px) {
