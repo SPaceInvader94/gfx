@@ -86,7 +86,7 @@ img:hover{
 	/* display:none; */
 }
 
-.div_test:hover .p_test{
+.div_test .p_test{
 	display:inline;
 	max-width:25%;
 	margin-left:auto;
