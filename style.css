@@ -94,7 +94,7 @@ img:hover{
 	text-align:center;
 }
 .div_test{
-	display:inline;
+	/* display:inline; */
 }
 .div_test:hover{
 	display:inline;
