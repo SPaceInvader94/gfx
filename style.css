@@ -83,8 +83,9 @@ img:hover{
 	border:none;
 }
 .p_test{
-	display:none;
+	/* display:none; */
 }
+/*
 .div_test:hover .p_test{
 	display:block;
 	max-width:25%;
@@ -95,6 +96,7 @@ img:hover{
 	padding:2px;
 	text-align:center;
 }
+*/
 .div_test{
 	/* display:inline; */
 }
