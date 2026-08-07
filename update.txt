@@ -1,0 +1,13 @@
+Last edit: 06/08/2026
+
+// 30/07/2026 ~ 06/08/2026
+  + Created this website;
+  + Added: index.html, style.css, site font & assets;
+  ~ Updated: image gallery for .avif files in index.html;
+  ~ Updated: this project struture.
+
+// To be added
+  + Add: 
+      * A script to show each graphic full URL near/below them (can be under or an overlay within the graphic canvas);
+      * Usefuk links to "Dummy buttons";
+      * More galleries to this website.
